@@ -1,0 +1,5 @@
+﻿<div class="techno-widget" [ngClass]="{'techno-widget-warning': theme == 'warning'}">
+    <h6>{{title}}</h6>
+    <div><span [ngClass]="{'text-value': valueType == 'text', 'numeric-value': valueType == 'number'}">{{value}}<small *ngIf="valueSubscript">{{valueSubscript}}</small></span></div>
+    <div *ngIf="valueCaption"><span>{{valueCaption}}</span></div>
+</div>

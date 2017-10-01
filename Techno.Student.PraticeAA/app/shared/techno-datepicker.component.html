@@ -1,0 +1,37 @@
+﻿<div style="margin-bottom: 10px;">
+    <span style="width: 35px; display: inline-block;" *ngIf="label.length > 0">{{label}}</span>
+    <div class="dropdown" style="display: inline;">
+        <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+            {{getYear()}}
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu list-inline year-picker">
+            <li *ngFor="let item of getYears(minYear, maxYear)">
+                <a href="javascript:;" (click)="setYear(item);">{{item}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown" style="display: inline;" *ngIf="viewMode == 'day' || viewMode == 'month'">
+        <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+            {{getMonth()}}
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu list-inline month-picker">
+            <li *ngFor="let item of getMonths()">
+                <a href="javascript:;" (click)="setMonth(item.code);">{{item.name}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown" style="display: inline;" *ngIf="viewMode == 'day'">
+        <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+            {{getDay()}}
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu list-inline day-picker">
+            <li *ngFor="let item of getDays()">
+                <a href="javascript:;" (click)="setDay(item);">{{item}}</a>
+            </li>
+        </ul>
+    </div>
+    <button class="btn btn-default" style="border: 0px;" (click)="reset();"><span class="glyphicon glyphicon-remove"></span></button>
+</div>
