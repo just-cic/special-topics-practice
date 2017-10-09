@@ -4,6 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { TransactionComponent } from './../erp-shared/transaction.component';
 
 import { JawadDamirComponent } from './jawad-damir.component';
+import { JehadAymanComponent } from './JehadAyman.component';
 
 const exercise01Routes: Routes = [
     {
@@ -11,6 +12,7 @@ const exercise01Routes: Routes = [
         component: TransactionComponent,
         children: [
             { path: 'jawad-damir', component: JawadDamirComponent },
+            { path: 'JehadAyman', component: JehadAymanComponent }
         ]
     }
 ];

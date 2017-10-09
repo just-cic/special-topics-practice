@@ -10,12 +10,14 @@ const core_1 = require("@angular/core");
 const router_1 = require("@angular/router");
 const transaction_component_1 = require("./../erp-shared/transaction.component");
 const jawad_damir_component_1 = require("./jawad-damir.component");
+const JehadAyman_component_1 = require("./JehadAyman.component");
 const exercise01Routes = [
     {
         path: 'exercise-01',
         component: transaction_component_1.TransactionComponent,
         children: [
             { path: 'jawad-damir', component: jawad_damir_component_1.JawadDamirComponent },
+            { path: 'JehadAyman', component: JehadAyman_component_1.JehadAymanComponent }
         ]
     }
 ];

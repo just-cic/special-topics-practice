@@ -12,12 +12,13 @@ const forms_1 = require("@angular/forms");
 const router_1 = require("@angular/router");
 const shared_module_1 = require("./../shared/shared.module");
 const jawad_damir_component_1 = require("./jawad-damir.component");
+const JehadAyman_component_1 = require("./JehadAyman.component");
 let Exercise01Module = class Exercise01Module {
 };
 Exercise01Module = __decorate([
     core_1.NgModule({
         imports: [common_1.CommonModule, forms_1.FormsModule, router_1.RouterModule, shared_module_1.SharedModule],
-        declarations: [jawad_damir_component_1.JawadDamirComponent]
+        declarations: [jawad_damir_component_1.JawadDamirComponent, JehadAyman_component_1.JehadAymanComponent]
     })
 ], Exercise01Module);
 exports.Exercise01Module = Exercise01Module;

@@ -32,3 +32,37 @@ c:\users\jawad\documents\visual studio 2015\Projects\Techno.Student.PraticeAA\Te
 c:\users\jawad\documents\visual studio 2015\Projects\Techno.Student.PraticeAA\Techno.Student.PraticeAA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\jawad\documents\visual studio 2015\Projects\Techno.Student.PraticeAA\Techno.Student.PraticeAA\obj\Debug\Techno.Student.PraticeAA.dll
 c:\users\jawad\documents\visual studio 2015\Projects\Techno.Student.PraticeAA\Techno.Student.PraticeAA\obj\Debug\Techno.Student.PraticeAA.pdb
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\csc.exe
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\csc.exe.config
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\csc.rsp
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\csi.exe
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\csi.rsp
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\System.AppContext.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\vbc.exe
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\vbc.exe.config
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\vbc.rsp
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\VBCSCompiler.exe
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\Techno.Student.PraticeAA.dll.config
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\Techno.Student.PraticeAA.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\Techno.Student.PraticeAA.pdb
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\obj\Debug\Techno.Student.PraticeAA.csprojResolveAssemblyReference.cache
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\obj\Debug\Techno.Student.PraticeAA.dll
+C:\Users\DBLab\Source\Repos\special-topics-practice\Techno.Student.PraticeAA\obj\Debug\Techno.Student.PraticeAA.pdb
